@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DEPENDENCY_INVERSION_PRINCIPLE/1.0.0": {
+        "runtime": {
+          "DEPENDENCY_INVERSION_PRINCIPLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEPENDENCY_INVERSION_PRINCIPLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

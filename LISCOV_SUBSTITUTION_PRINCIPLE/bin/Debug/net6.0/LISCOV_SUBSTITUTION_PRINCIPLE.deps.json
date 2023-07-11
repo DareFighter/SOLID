@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LISCOV_SUBSTITUTION_PRINCIPLE/1.0.0": {
+        "runtime": {
+          "LISCOV_SUBSTITUTION_PRINCIPLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LISCOV_SUBSTITUTION_PRINCIPLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

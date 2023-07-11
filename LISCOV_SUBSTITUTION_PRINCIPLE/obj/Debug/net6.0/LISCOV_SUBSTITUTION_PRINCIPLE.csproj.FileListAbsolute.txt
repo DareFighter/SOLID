@@ -1,0 +1,15 @@
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\bin\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.exe
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\bin\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.deps.json
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\bin\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.runtimeconfig.json
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\bin\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.dll
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\bin\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.pdb
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.csproj.AssemblyReference.cache
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.AssemblyInfoInputs.cache
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.AssemblyInfo.cs
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.csproj.CoreCompileInputs.cache
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.dll
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\refint\LISCOV_SUBSTITUTION_PRINCIPLE.dll
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.pdb
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\LISCOV_SUBSTITUTION_PRINCIPLE.genruntimeconfig.cache
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\LISCOV_SUBSTITUTION_PRINCIPLE\obj\Debug\net6.0\ref\LISCOV_SUBSTITUTION_PRINCIPLE.dll

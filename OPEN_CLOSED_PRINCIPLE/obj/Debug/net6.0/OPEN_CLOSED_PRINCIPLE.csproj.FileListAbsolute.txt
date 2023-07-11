@@ -1,0 +1,15 @@
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\bin\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.exe
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\bin\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.deps.json
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\bin\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.runtimeconfig.json
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\bin\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.dll
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\bin\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.pdb
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.csproj.AssemblyReference.cache
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.AssemblyInfoInputs.cache
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.AssemblyInfo.cs
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.csproj.CoreCompileInputs.cache
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.dll
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\refint\OPEN_CLOSED_PRINCIPLE.dll
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.pdb
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\OPEN_CLOSED_PRINCIPLE.genruntimeconfig.cache
+C:\Users\kumar\OneDrive\Documents\c#\SOLID\OPEN_CLOSED_PRINCIPLE\obj\Debug\net6.0\ref\OPEN_CLOSED_PRINCIPLE.dll
